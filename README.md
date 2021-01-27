@@ -1,5 +1,6 @@
 # NPCgenerator
 A quick and simple, yet thorough random NPC generator I whipped up for a friend's Cyberpunk D&amp;D campaign.
+# This is meant to be run in command prompt with >python NPCgenerator.py
 
 I got all of the information I used from Cyberpunk: The Roleplaying Game of the Dark Future, copyright 1990, 1991, 1993 by R. Talsorian Games, Inc.
 ISBN: 0-937-279-13-7
