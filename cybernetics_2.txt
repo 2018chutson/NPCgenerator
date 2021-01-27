@@ -1,0 +1,6 @@
+Cyberarm with gun: Medium Pistol
+Cyberarm with gun: Light Pistol
+Cyberarm with gun: Medium Pistol
+Cyberarm with gun: Light Submachinegun
+Cyberarm with gun: Very Heavy Pistol
+Cyberarm with gun: Heavy Pistol
