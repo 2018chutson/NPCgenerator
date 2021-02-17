@@ -7,6 +7,7 @@ ISBN: 0-937-279-13-7
 
 Started on 1-14-21, first version completed 1-20-21
 Version 1.1: added gender specifier
+Version 2.0: redesigned and fixed female name bug
 
 Input: number of NPCs, class specifier, gender specifier
 
